@@ -15,6 +15,6 @@ Berikut adalah perintahnya (tulis perbaris, lalu enter, dan seterusnya) :
 
  - [ ] export GIT_TRACE_PACKET=1
  - [ ] export GIT_TRACE=1
- - [ ] export GIT_CURL_VERBOSE=1`
+ - [ ] export GIT_CURL_VERBOSE=1
 
 Setelah itu kita lakukan proses unduh seperti biasanya melalui perintah git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
