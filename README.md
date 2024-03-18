@@ -17,3 +17,4 @@ Berikut adalah perintahnya (tulis perbaris, lalu enter, dan seterusnya) :
  - [ ] git config http.postBuffer 524288000
 
 Setelah itu kita lakukan proses unduh seperti biasanya melalui perintah git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
+Jika hal diatas masih saja terjadi, solusi paling gampang adalah kita mendownload langsung file zip ccminer nya ke komputer kita. Setelah terdownload ke komputer kita ekstrak di komputer lokal kita, lalu rename folder nya menjadi ccminer, setelah itu kita upload ke root STB nya menggunakan mobaexterm ataupun file manager lainnya. Saya lebih nyaman pake mobaexterm.
